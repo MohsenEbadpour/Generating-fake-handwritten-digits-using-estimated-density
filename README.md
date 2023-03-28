@@ -1,5 +1,5 @@
 # Generating fake handwritten digits using estimated density
-This repository contains code for a problem related to image estimating density in pattern recognition. The problem involves compress images, estimate density, then generate fake handwritten digits.
+This repository contains code for a problem related to estimating density in pattern recognition. The problem involves compress images, estimate density, then generate fake handwritten digits.
 
 ## Course Information
 
